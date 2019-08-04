@@ -1,0 +1,10 @@
+{
+    "folders": [
+        "config",
+        "modules",
+        "services"
+    ],
+    "files": [
+        ".env"
+    ]
+}

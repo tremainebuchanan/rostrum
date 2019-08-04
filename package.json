@@ -1,0 +1,19 @@
+{
+    "name": "rostrum",
+    "version": "1.0.0",
+    "description": "Nodejs project scaffolding library.",
+    "main": "index.js",
+    "preferGlobal": true,
+    "bin": {
+        "rostrum": "index.js"
+    },
+    "engines": {
+        "node": ">=8.0.0"
+    },
+    "author": "Tremaine Buchanan",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tremainebuchanan/rostrum.git"
+    }
+}
