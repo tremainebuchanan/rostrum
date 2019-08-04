@@ -1,6 +1,6 @@
 {
     "name": "rostrum",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Nodejs project scaffolding library.",
     "main": "index.js",
     "preferGlobal": true,
@@ -15,5 +15,11 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/tremainebuchanan/rostrum.git"
-    }
+    },
+    "keywords": [
+        "nodejs",
+        "scaffolding tool",
+        "bulletproof",
+        "project architecture"
+    ]
 }
